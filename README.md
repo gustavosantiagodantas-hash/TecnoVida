@@ -41,4 +41,21 @@ Acessibilidade — uso de aria-label, aria-expanded, role, aria-live em toda a m
 
 
 📁 Estrutura de Arquivos
+TecnoVida-main/
+├── index.html    # Estrutura e conteúdo da página
+├── style.css     # Estilos, animações e responsividade
+└── script.js     # Interatividade (menu, quiz, formulário, contadores…)
+
+
+🚀 Como Executar
+
+Por ser um projeto estático (apenas HTML, CSS e JS), basta abrir o arquivo index.html diretamente no navegador:
+
+# Clone ou extraia o projeto
+cd TecnoVida-main
+
+# Abra no navegador (Linux/Mac)
+open index.html
+
+# Ou use uma extensão como Live Server no VS Code para servir localmente
 
