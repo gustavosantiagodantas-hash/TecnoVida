@@ -59,3 +59,12 @@ open index.html
 
 # Ou use uma extensão como Live Server no VS Code para servir localmente
 
+
+📱 Responsividade
+
+O layout é totalmente responsivo, adaptando-se a:
+
+
+Desktop — grid multi-colunas, hero com visual lateral
+Tablet — colunas reduzidas, espaçamentos ajustados
+Mobile — coluna única, menu hambúrguer, navegação touch-friendly
